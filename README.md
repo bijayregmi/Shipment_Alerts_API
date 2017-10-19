@@ -12,9 +12,12 @@ Open web browser -> go to this link http://localhost:8087/shipments
 
 You will see the JSON response
 
-Consume Angular4 Front End Component
+#  Angular4 Consuming API EndPoint 
 
-Install Node.js
-Install AngularCLI
-Open ng-serve
-Open web browser -> goto to this link http://localhost:4200
+1. Install Node.js
+
+2. Install AngularCLI
+
+3. Open ng-serve
+
+4. Open web browser -> goto to this link http://localhost:4200
